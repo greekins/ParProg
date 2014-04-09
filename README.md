@@ -1,4 +1,4 @@
 ParProg
 =======
 
-Repository for all exercises in ParProg module.
+Exercises from module Parallel Programming
