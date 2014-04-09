@@ -1,4 +1,4 @@
 ParProg
 =======
 
-Repository for all exercises in ParProg modul.
+Repository for all exercises in ParProg module.
