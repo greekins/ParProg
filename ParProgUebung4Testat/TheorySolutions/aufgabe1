@@ -1,0 +1,4 @@
+Sobald der Thread mit der ID 0 kommt, wird eine neue Runde eröffnet.
+Wann dieser Thread jedoch kommt, weiss man im Voraus nicht.
+Der Programmierer geht wohl davon aus, dass der Thread mit der ID 0 auch als erster terminiert.
+Das kann, muss aber nicht so sein.
