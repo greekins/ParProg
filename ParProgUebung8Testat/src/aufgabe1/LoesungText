@@ -1,4 +1,0 @@
-Aufgabe 1
-a) Die Problematik der Sichtbarkeit spielt hier eine Rolle. Die Variable turn 
-   kann von einem anderen Thread verändert werden und der aktuelle Thread sieht die 
-   Änderung eventuell nicht oder viel später.
