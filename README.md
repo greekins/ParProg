@@ -1,4 +1,4 @@
 ParProg
 =======
 
-Exercises from module Parallel Programming
+HSR ParProg exercises
